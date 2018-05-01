@@ -1,0 +1,24 @@
+Saturday, 28-Apr-2018 08:54:14 - restore started
+Saturday, 28-Apr-2018 08:54:14 - wp version     : 4.9.4
+Saturday, 28-Apr-2018 08:54:14 - php version    : 5.6.25
+Saturday, 28-Apr-2018 08:54:14 - mysql version  : 5.7.14
+Saturday, 28-Apr-2018 08:54:14 - memory limit   : 1024M
+Saturday, 28-Apr-2018 08:54:14 - execution time : 600
+Saturday, 28-Apr-2018 08:54:14 - mysql timeout  : 600
+Saturday, 28-Apr-2018 08:54:14 - socket timeout : 600
+Saturday, 28-Apr-2018 08:54:14 - file download started
+Saturday, 28-Apr-2018 08:55:27 - download finished, filesize - 10.57 MB
+Saturday, 28-Apr-2018 08:55:27 - extracting database using ziparchive
+Saturday, 28-Apr-2018 08:55:27 - changing prefix from "wp_" to "wpid_"
+Saturday, 28-Apr-2018 08:55:27 - database import started
+Saturday, 28-Apr-2018 08:55:30 - updating mysql query with current site's url - new query : "INSERT INTO wpid_options VALUES("1", "siteurl", "http://localhost/ramatty", "yes")"
+Saturday, 28-Apr-2018 08:55:43 - mysql query failed. error : 1065 Query was empty - query : ""
+Saturday, 28-Apr-2018 08:55:43 - database import finished
+Saturday, 28-Apr-2018 08:55:43 - search and replace started
+Saturday, 28-Apr-2018 08:55:43 - there are 27 tables to scan
+Saturday, 28-Apr-2018 08:55:46 - search and replace finished
+Saturday, 28-Apr-2018 08:55:46 - extracting archive using ziparchive
+Saturday, 28-Apr-2018 08:55:49 - copying files..
+Saturday, 28-Apr-2018 08:55:59 - deleting temp directory..
+Saturday, 28-Apr-2018 08:56:01 - deleting downloaded zip file..
+Saturday, 28-Apr-2018 08:56:01 - restore finished
