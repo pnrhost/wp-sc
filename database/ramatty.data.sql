@@ -908,7 +908,7 @@ LOCK TABLES `wpid_users` WRITE;
 /*!40000 ALTER TABLE `wpid_users` DISABLE KEYS */;
 INSERT INTO `wpid_users` (`ID`, `user_login`, `user_pass`, `user_nicename`, `user_email`, `user_url`, `user_registered`, `user_activation_key`, `user_status`, `display_name`) VALUES
   (1,'sysadm','$P$BudlkL7jKkW3e/SneQORoyIXumswdi/','sysadm','warren@pagelinkd.com','','2018-04-11 12:26:17','',0,'sysadm'),
-  (2,'Warren','$P$Bq62qKp9euK.oVrTnFPkgnzUCWK7jF0','warren','takuganye@gmail.com','','2018-04-25 16:22:47','',2,'WarrenFixer');
+  (2,'warren','$P$Bq62qKp9euK.oVrTnFPkgnzUCWK7jF0','warren','takuganye@gmail.com','','2018-04-25 16:22:47','',2,'WarrenFixer');
 /*!40000 ALTER TABLE `wpid_users` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
