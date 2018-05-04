@@ -1,0 +1,24 @@
+Thursday, 03-May-2018 17:27:50 - restore started
+Thursday, 03-May-2018 17:27:50 - wp version     : 4.9.4
+Thursday, 03-May-2018 17:27:50 - php version    : 5.6.25
+Thursday, 03-May-2018 17:27:50 - mysql version  : 5.7.14
+Thursday, 03-May-2018 17:27:50 - memory limit   : 1024M
+Thursday, 03-May-2018 17:27:50 - execution time : 600
+Thursday, 03-May-2018 17:27:50 - mysql timeout  : 600
+Thursday, 03-May-2018 17:27:50 - socket timeout : 600
+Thursday, 03-May-2018 17:27:50 - file download started
+Thursday, 03-May-2018 17:30:50 - download finished, filesize - 10.57 MB
+Thursday, 03-May-2018 17:30:50 - extracting database using ziparchive
+Thursday, 03-May-2018 17:30:50 - changing prefix from "wp_" to "wpid_"
+Thursday, 03-May-2018 17:30:50 - database import started
+Thursday, 03-May-2018 17:30:53 - updating mysql query with current site's url - new query : "INSERT INTO wpid_options VALUES("1", "siteurl", "http://localhost/staffconnect", "yes")"
+Thursday, 03-May-2018 17:31:11 - mysql query failed. error : 1065 Query was empty - query : ""
+Thursday, 03-May-2018 17:31:11 - database import finished
+Thursday, 03-May-2018 17:31:11 - search and replace started
+Thursday, 03-May-2018 17:31:11 - there are 27 tables to scan
+Thursday, 03-May-2018 17:31:14 - search and replace finished
+Thursday, 03-May-2018 17:31:14 - extracting archive using ziparchive
+Thursday, 03-May-2018 17:31:18 - copying files..
+Thursday, 03-May-2018 17:31:30 - deleting temp directory..
+Thursday, 03-May-2018 17:31:35 - deleting downloaded zip file..
+Thursday, 03-May-2018 17:31:35 - restore finished
